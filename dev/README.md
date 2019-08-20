@@ -11,5 +11,9 @@
   - Octo.jl v0.2.4-DEV
     https://github.com/wookay/Octo.jl/projects/1#column-6205048
 
-  - H3.jl v0.1.1-DEV
+  - Jive.jl v0.1.14-DEV
+    https://github.com/wookay/Jive.jl/projects/1#column-6259462
+
+
+  - H3.jl v0.1.1
     https://github.com/wookay/H3.jl/projects/1#column-4609900
