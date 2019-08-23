@@ -14,8 +14,6 @@
   - Millboard.jl v0.2.1
     https://github.com/wookay/Millboard.jl/projects/1#column-6274777
 
-
-
   - Jive.jl v0.1.14
     https://github.com/wookay/Jive.jl/projects/1#column-6259462
 
