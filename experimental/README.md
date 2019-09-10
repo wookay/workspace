@@ -2,7 +2,10 @@
 
 from 2019.8 to 2019.12
 
-  * https://github.com/wookay/Recursive.jl
-  * https://github.com/wookay/Open3D.jl
-  * https://github.com/wookay/Wavetable.jl
-  * https://github.com/wookay/XiCore.jl
+  * Recursive.jl
+  * Open3D.jl
+  * Wavetable.jl
+  * XiCore.jl
+  * TopologyLayer.jl
+  * VSTGUI.jl
+  * Anime4K.jl
