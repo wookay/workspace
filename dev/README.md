@@ -6,14 +6,12 @@
   - Jive.jl v0.2.1-DEV
     https://github.com/wookay/Jive.jl/projects/1#column-6259462
 
+  - Octo.jl v0.2.5-DEV
+    https://github.com/wookay/Octo.jl/projects/1#column-6205048
+
 
   - Poptart.jl v0.2.2
     https://github.com/wookay/Poptart.jl/projects/1#column-5191771
-
-  - PoptartExamples.jl
-
-  - Octo.jl v0.2.4
-    https://github.com/wookay/Octo.jl/projects/1#column-6205048
 
   - Millboard.jl v0.2.1
     https://github.com/wookay/Millboard.jl/projects/1#column-6274777
